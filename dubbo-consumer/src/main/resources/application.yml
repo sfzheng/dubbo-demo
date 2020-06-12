@@ -1,0 +1,16 @@
+server:
+  port: 9002
+spring:
+  profiles:
+    active: dev
+  dubbo:
+    # 设置当前项目当中使用dubbo注解的包路径
+    scan: com.dubbo.demo
+    application:
+      name: dubbo-consumer
+
+
+
+  main:
+    allow-bean-definition-overriding: true
+

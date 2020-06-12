@@ -1,0 +1,17 @@
+server:
+  port: 9003
+spring:
+  profiles:
+    active: dev
+  dubbo:
+    application:
+      name: dubbo-kafuka
+
+# 设置当前项目当中使用dubbo注解的包路径
+    scan: com.fls.kafuka
+
+  main:
+    allow-bean-definition-overriding: true
+
+
+

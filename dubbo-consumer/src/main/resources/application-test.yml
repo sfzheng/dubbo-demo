@@ -1,0 +1,9 @@
+spring:
+
+consul:
+  port: 8500
+  host: 103.40.235.170
+  token:
+  config:
+   key: consumer
+   data_key: dubbo/

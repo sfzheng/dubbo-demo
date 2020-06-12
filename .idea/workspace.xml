@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3045c9b1-0ded-4bae-9384-6513e1425dae" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="dubbo-test" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/server/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="E:\server\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1d9kl6UT7uvQeyMamKb7FYC5bCN" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="flattenModules" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dubbo-kafka/pom.xml" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.fls.kafuka.service" />
+      <recent name="com.dubbo.demo.service.impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\ideaWorkSpace\dubbo-test\dubbo-demo\src\main\resources" />
+      <recent name="F:\ideaWorkSpace\dubbo-test\dubbo-kafuka\src\main\java\com\fls\kafuka\config" />
+      <recent name="F:\ideaWorkSpace\dubbo-test\dubbo-kafuka\src\main\resources" />
+      <recent name="F:\ideaWorkSpace\dubbo-test\dubbo-consumer\src\main\resources" />
+      <recent name="F:\ideaWorkSpace\dubbo-test\dubbo-consumer\src\main\java\com\dubbo\demo\config" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="Found 1 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+        </path>
+        <path>
+          <item name="Found 1 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+          <item name="consumer" type="c588b436:RestServiceStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DubboKafukaApplication">
+    <configuration name="ConsumerApplication" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.dubbo.demo.ApiApplication" />
+      <module name="consumer" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dubbo.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Consumer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dubbo.demo.ApiApplication" />
+      <option name="VM_PARAMETERS" value="-Dspring.profiles.active=dev" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DubboKafukaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kafka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fls.kafuka.DubboKafukaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Provider" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dubbo.demo.DemoApplication" />
+      <option name="VM_PARAMETERS" value="-Dspring.profiles.active=dev" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dubbo-common" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dubbo-common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fls.DubboCommonApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ConsumerApplication" />
+      <item itemvalue="Spring Boot.Consumer" />
+      <item itemvalue="Spring Boot.Provider" />
+      <item itemvalue="Spring Boot.dubbo-common" />
+      <item itemvalue="Spring Boot.DubboKafukaApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConsumerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.1023281" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\songfz\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3045c9b1-0ded-4bae-9384-6513e1425dae" name="Default" comment="" />
+      <created>1556181501005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556181501005</updated>
+      <workItem from="1556181502800" duration="10029000" />
+      <workItem from="1556244704121" duration="1233000" />
+      <workItem from="1556255949723" duration="10218000" />
+      <workItem from="1556415315904" duration="6036000" />
+      <workItem from="1556427733209" duration="5995000" />
+      <workItem from="1556517620928" duration="1907000" />
+      <workItem from="1556519591021" duration="43203000" />
+      <workItem from="1557121570504" duration="9473000" />
+      <workItem from="1557211474752" duration="5827000" />
+      <workItem from="1557278834833" duration="652000" />
+      <workItem from="1557369764911" duration="69000" />
+      <workItem from="1559803630026" duration="1695000" />
+      <workItem from="1559805368208" duration="8031000" />
+      <workItem from="1560130975500" duration="1517000" />
+      <workItem from="1560158127450" duration="14000" />
+      <workItem from="1591844848137" duration="12635000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="338" y="352" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591866245196">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="338" y="352" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1591866245196" />
+    <state x="765" y="257" key="#com.intellij.ide.util.MemberChooser" timestamp="1591863946042">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="765" y="257" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1591863946042" />
+    <state x="613" y="481" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1591866231171">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="613" y="481" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1591866231171" />
+    <state x="724" y="233" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1591868749367">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="724" y="233" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1591868749367" />
+    <state width="470" height="466" key="DebuggerActiveHint" timestamp="1591868957946">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="470" height="466" key="DebuggerActiveHint/0.0.1920.1080@0.0.1920.1080" timestamp="1591868957946" />
+    <state x="740" y="296" key="FileChooserDialogImpl" timestamp="1591866286854">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="296" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1591866286854" />
+    <state width="1657" height="301" key="GridCell.Tab.0.bottom" timestamp="1591869609033">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1657" height="301" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1591869609033" />
+    <state width="1657" height="301" key="GridCell.Tab.0.center" timestamp="1591869609033">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1657" height="301" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1591869609033" />
+    <state width="1657" height="301" key="GridCell.Tab.0.left" timestamp="1591869609033">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1657" height="301" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1591869609033" />
+    <state width="1657" height="301" key="GridCell.Tab.0.right" timestamp="1591869609033">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1657" height="301" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1591869609033" />
+    <state width="1657" height="301" key="GridCell.Tab.1.bottom" timestamp="1591869609033">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1657" height="301" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1591869609033" />
+    <state width="1657" height="301" key="GridCell.Tab.1.center" timestamp="1591869609033">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1657" height="301" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1591869609033" />
+    <state width="1657" height="301" key="GridCell.Tab.1.left" timestamp="1591869609033">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1657" height="301" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1591869609033" />
+    <state width="1657" height="301" key="GridCell.Tab.1.right" timestamp="1591869609033">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1657" height="301" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1591869609033" />
+    <state width="1657" height="301" key="GridCell.Tab.2.bottom" timestamp="1591869609027">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1657" height="301" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1591869609027" />
+    <state width="1657" height="301" key="GridCell.Tab.2.center" timestamp="1591869609027">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1657" height="301" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1591869609027" />
+    <state width="1657" height="301" key="GridCell.Tab.2.left" timestamp="1591869609027">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1657" height="301" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1591869609027" />
+    <state width="1657" height="301" key="GridCell.Tab.2.right" timestamp="1591869609027">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1657" height="301" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1591869609027" />
+    <state x="490" y="196" key="Maven.ArtifactSearchDialog" timestamp="1591864332591">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="490" y="196" key="Maven.ArtifactSearchDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1591864332591" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dubbo-consumer/src/main/java/com/dubbo/demo/service/TestConsumerService.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dubbo-demo/src/main/java/com/dubbo/demo/service/impl/LoggerProduer.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>consumer</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

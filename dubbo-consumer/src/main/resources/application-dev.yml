@@ -1,0 +1,13 @@
+spring:
+#   设置zk的服务端口
+  dubbo:
+    registry:
+      address: zookeeper://192.168.99.100:2181
+
+consul:
+  port: 8500
+  host: 192.168.99.100
+  token:
+  config:
+   key: consumer
+   data_key: dubbo/
