@@ -1,5 +1,5 @@
 spring:
-#   设置zk的服务端口
+  #   设置zk的服务端口
   dubbo:
     registry:
       address: zookeeper://192.168.99.100:2181
@@ -12,11 +12,7 @@ spring:
     producer:
       key-serializer: org.apache.kafka.common.serialization.StringSerializer
       value-serializer: org.apache.kafka.common.serialization.StringSerializer
-
-consul:
-  port: 8500
-  host: 192.168.99.100
-  token:
-  config:
-   key: dubbo/
-   data_key: dubbo-kafka/data
+system:
+  kafka:
+    topics:
+      log4j-topic: kafka-log4j

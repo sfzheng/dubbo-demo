@@ -9,5 +9,5 @@ consul:
   host: 192.168.99.100
   token:
   config:
-   key: consumer
-   data_key: dubbo/
+   key: dubbo/
+   data_key: dubbo-consumer/data

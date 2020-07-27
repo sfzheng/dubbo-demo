@@ -1,8 +1,17 @@
 spring:
-#   设置zk的服务端口
+  #   设置zk的服务端口
   dubbo:
     registry:
       address: zookeeper://192.168.99.100:2181
+    application:
+      name: dubbo-provider
+
+      #设置采用的服务协议
+    protocol:
+      name: dubbo
+      port: 20880
+    # 设置当前项目当中使用dubbo注解的包路径
+    scan: com.dubbo.demo
   kafka:
     bootstrap-servers: 192.168.99.100:9092
     consumer:
@@ -12,11 +21,9 @@ spring:
     producer:
       key-serializer: org.apache.kafka.common.serialization.StringSerializer
       value-serializer: org.apache.kafka.common.serialization.StringSerializer
-
-consul:
-  port: 8500
-  host: 192.168.99.100
-  token:
-  config:
-   key: dubbo/
-   data_key: dubbo-kafka/data
+    #设置采用的服务协议
+  protocol:
+    name: dubbo
+    port: 20880
+  # 设置当前项目当中使用dubbo注解的包路径
+  scan: com.dubbo.demo

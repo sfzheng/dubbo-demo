@@ -20,6 +20,7 @@
         <option value="$PROJECT_DIR$/dubbo-common/pom.xml" />
         <option value="$PROJECT_DIR$/dubbo-kafuka/pom.xml" />
         <option value="$PROJECT_DIR$/dubbo-kafka/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-provider/pom.xml" />
       </list>
     </option>
   </component>
