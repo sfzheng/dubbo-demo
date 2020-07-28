@@ -8,8 +8,9 @@ spring:
     scan: com.dubbo.demo
     application:
       name: dubbo-consumer
-
-
+  #   设置zk的服务端口
+    registry:
+      address: zookeeper://192.168.99.100:2181
 
   main:
     allow-bean-definition-overriding: true

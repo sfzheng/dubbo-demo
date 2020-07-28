@@ -4,7 +4,7 @@
  * Date:     2019/5/6 14:28
  * Description: 日志配置
  */
-package com.dubbo.provider.config;
+package com.dubbo.demo.config;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.Configuration;

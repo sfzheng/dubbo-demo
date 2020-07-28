@@ -1,6 +1,6 @@
-package com.dubbo.provider;
+package com.dubbo.demo;
 
-import com.dubbo.provider.config.ApplicationStartup;
+import com.dubbo.demo.config.ApplicationStartup;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

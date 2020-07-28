@@ -2,14 +2,30 @@ server:
   port: 9001
 spring:
   profiles:
-      active: dev
+    active: dev
+
   dubbo:
+    # 设置当前项目当中使用dubbo注解的包路径
+    scan: com.dubbo.demo
     application:
       name: dubbo-provider
-
-#设置采用的服务协议
+    #   设置zk的服务端口
+    registry:
+      address: zookeeper://192.168.99.100:2181
     protocol:
       name: dubbo
       port: 20880
-# 设置当前项目当中使用dubbo注解的包路径
-    scan: com.dubbo.demo
+
+  kafka:
+    bootstrap-servers: 192.168.99.100:9092
+    consumer:
+      group-id: 0
+      key-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+      value-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+    producer:
+      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+      value-serializer: org.apache.kafka.common.serialization.StringSerializer
+
+  main:
+    allow-bean-definition-overriding: true
+

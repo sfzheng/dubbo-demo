@@ -4,7 +4,7 @@
  * Date:     2019/4/29 16:29
  * Description: 加载配置
  */
-package com.dubbo.provider.config;
+package com.dubbo.demo.config;
 
 import org.springframework.context.ApplicationListener;
 import org.springframework.context.event.ContextRefreshedEvent;

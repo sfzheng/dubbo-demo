@@ -41,12 +41,14 @@ public void startup(){
             response =  client.getKVValue(cousle.getKey()+ cousle.getData_key() );
         }
 //        存储cousle 数据
-        Properties properties =   new Properties();
-        StringReader reader = new StringReader(response.getValue().getDecodedValue());
-        properties.load(reader);
-        for(Map.Entry<Object,Object> entry : properties.entrySet()){
+        Properties properties = new Properties();
+        if(response.getValue() != null) {
+            StringReader reader = new StringReader(response.getValue().getDecodedValue());
+            properties.load(reader);
+            for (Map.Entry <Object, Object> entry : properties.entrySet()) {
 
-            properties.setProperty(String.valueOf(entry.getKey()),String.valueOf(entry.getValue()));
+                properties.setProperty(String.valueOf(entry.getKey()), String.valueOf(entry.getValue()));
+            }
         }
         LOG.info("结果：{}",properties);
     }catch (Exception e){

@@ -4,7 +4,7 @@
  * Date:     2019/4/30 13:23
  * Description:
  */
-package com.dubbo.provider.config;
+package com.dubbo.demo.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Configuration;

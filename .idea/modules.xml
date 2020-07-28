@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/dubbo-consumer/consumer.iml" filepath="$PROJECT_DIR$/dubbo-consumer/consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbo-common/dubbo-common.iml" filepath="$PROJECT_DIR$/dubbo-common/dubbo-common.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/dubbo-test.iml" filepath="$PROJECT_DIR$/.idea/dubbo-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbo-kafka/kafka.iml" filepath="$PROJECT_DIR$/dubbo-kafka/kafka.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbo-provider/provider.iml" filepath="$PROJECT_DIR$/dubbo-provider/provider.iml" />
     </modules>

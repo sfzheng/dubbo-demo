@@ -4,7 +4,7 @@
  * Date:     2019/2/26 10:29
  * Description: 测试
  */
-package com.dubbo.provider.service;
+package com.dubbo.demo.service;
 
 import com.alibaba.dubbo.config.annotation.Reference;
 import org.springframework.stereotype.Service;
@@ -20,7 +20,7 @@ import org.springframework.stereotype.Service;
 @Service
 public class TestConsumerService {
 
-    @Reference
+    @Reference(version = "1.0.0")
     private TestService testService;
 
 

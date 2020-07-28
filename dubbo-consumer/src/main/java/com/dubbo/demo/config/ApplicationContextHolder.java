@@ -1,4 +1,4 @@
-package com.dubbo.provider.config;
+package com.dubbo.demo.config;
 
 import org.springframework.beans.BeansException;
 import org.springframework.context.ApplicationContext;

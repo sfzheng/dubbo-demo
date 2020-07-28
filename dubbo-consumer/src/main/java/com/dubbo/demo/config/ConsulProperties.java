@@ -4,7 +4,7 @@
  * Date:     2019/4/29 15:18
  * Description: cousle初始化
  */
-package com.dubbo.provider.config;
+package com.dubbo.demo.config;
 
 import com.ecwid.consul.v1.ConsulClient;
 import com.ecwid.consul.v1.Response;

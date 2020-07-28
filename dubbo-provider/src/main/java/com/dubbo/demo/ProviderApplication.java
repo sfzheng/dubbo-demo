@@ -1,4 +1,4 @@
-package com.dubbo.provider;
+package com.dubbo.demo;
 
 
 import org.springframework.boot.SpringApplication;

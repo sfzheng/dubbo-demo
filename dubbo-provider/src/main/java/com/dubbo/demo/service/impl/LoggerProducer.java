@@ -4,9 +4,9 @@
  * Date:     2019/5/7 14:55
  * Description: 生产者
  */
-package com.dubbo.provider.service.impl;
+package com.dubbo.demo.service.impl;
 
-import com.dubbo.provider.service.Produer;
+import com.dubbo.demo.service.Producer;
 import org.apache.log4j.Level;
 import org.apache.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -22,9 +22,9 @@ import org.springframework.stereotype.Component;
  * @since 1.0.0
  */
 @Component
-public class LoggerProduer implements Produer {
+public class LoggerProducer implements Producer {
 
-    private static Logger LOG = Logger.getLogger(LoggerProduer.class);
+    private static Logger LOG = Logger.getLogger(LoggerProducer.class);
 
     @Autowired
     private KafkaTemplate kafkaTemplate;
